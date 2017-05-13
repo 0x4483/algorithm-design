@@ -18,6 +18,43 @@ Q: Give an example of certificate using independent set decision version problem
 
 Q: What is an efficient certification? 
 
+Q: What's the difference between P and NP? 
+
+Q: Give the proof of P is a subset of NP. 
+
+Q: How to show a problem is computationally difficult?
+
+Q: What can you tell when you reduce problem X to problem Y?
+
+Q: What is a vertex cover problem?
+
+Q: Show how vertex cover can be converted to an independent set problem. 
+
+Q: Draw an example of vertex cover along with independent set. 
+
+Q: What is the definition of NP-complete?
+
+Q: If Y is NP-complete and if we can reduce Y to X then X is also NP-Complete. Prove it. 
+
+Q: If A <= B, can we reduce A to B or reduce B to A?
+
+Q: Show the reduction from vertex cover to set cover. 
+
+Q: Which theorems are NP-Complete to our knowledge?
+
+Q: What is SAT and 3SAT problem?
+
+Q: What is the intuitive idea behind Cook-Levin's theorem?
+
+Q: Show the reduction from SAT to 3SAT problem
+
+Q: 
+
+
+
+
+
+
 
 
 

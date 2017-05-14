@@ -48,9 +48,17 @@ Q: What is the intuitive idea behind Cook-Levin's theorem?
 
 Q: Show the reduction from SAT to 3SAT problem
 
+Q: Show the reduction from 3SAT to independent set and make sure to clearly draw out the graph correspondance. 
+
+Q: Describe the Hamilton Problem. 
+
+Q: How to reduce Hamiltonian Cycle problem to Hamiltonian Path problem?
+
+Q: How to redcue Hamiltonian Path to TSP problem? What is a TSP Problem?
+
+Q: Explain what a kth coloring problem is and show how we test if a graph has a 2-coloring. 
+
 Q: 
-
-
 
 
 
